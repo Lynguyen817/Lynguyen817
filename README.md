@@ -11,7 +11,7 @@
 <h2>About me</h2>
   <ul>
     <li>💬 Ask me about anything</li>
-    <li>📫 How to reach me: message me on <a href="https://www.instagram.com/yuuri3553/">Instagram</a> </li>
+    <li>📫 How to reach me: message me on <a href="https://www.instagram.com/nguyenleena/">Instagram</a> </li>
     <li>😄 Pronouns: Lee </li>
   </ul>
    
