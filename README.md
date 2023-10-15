@@ -1,17 +1,18 @@
 
 <h1 align="center" style="color:pink">Hi there 👋 welcome to my Github 
   <a href="https://github.com/Lynguyen817" ><br/>
-    I'm Ly (Lee)</a> <br/>
-  <img src="https://em-content.zobj.net/source/telegram/358/lion_1f981.webp"/>
+    I'm Ly</a> <br/>
+  <img alt="Lion" width="120px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1rDxU8cQ8YP7Zc90LNXTVrtxrBfUYDD8YSoWQ2apSagXCvG87" />
 </h1>
 <p align="center">I'm a passionate software engineer based in United State 💻.</p>
-<h2 align="center"> 😳 Check out my repos <a href="https://github.com/Lynguyen817?tab=repositories">⬇</a></h2>
+<h2 align="center"> 😅 Check out my repos <a href="https://github.com/Lynguyen817?tab=repositories">⬇</a></h2>
 
 
 <h2>About me</h2>
   <ul>
-    <li>I like Python,JavaScript</li>
-    <li></li>
+    <li>💬 Ask me about anything</li>
+    <li>📫 How to reach me: message me on <a href="https://www.instagram.com/yuuri3553/">Instagram</a> </li>
+    <li>😄 Pronouns: Lee </li>
   </ul>
    
 <h2>Language and Tools</h2>
@@ -19,6 +20,7 @@
 <img align="left" alt="HTML5" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="sqlalchemy" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="padding-right:10px;" />
